@@ -1,0 +1,46 @@
+Here’s our Week 9 IOI update.
+
+
+What we accomplished this week:
+
+Got keys to Dr. Bellur’s lab and emailed his grad student to schedule a preliminary tour of Rhodes 514 since Dr. Bellur is out until the 20th.
+
+Followed up with Purchasing on the Raspberry Pi board and power cable order.
+
+Created an assembly with the camera module and added an optical envelope showing the largest possible exit pupil at the mount flange to drive filter wheel sizing and clearances. (See attached image)
+
+Outlined a camcorder-style body concept similar to cinema blocks to improve rig adaptability/modularity and enable multi-camera “Dragonfly” networking.
+
+Defined a plan to create a decision matrix comparing this body style to consumer camera layouts to solidify design decisions.
+
+
+Challenges we faced:
+
+Figuring out how to use NX for assemblies to make modeling easier and adaptable.
+
+Settling on a name for the camera for the Spark Grant and other innovation pitch competitions.
+
+
+Goals for the coming week:
+
+Confirm Pi delivery status and reverse engineer the board once received.
+
+Finish the decision matrix for body style selection.
+
+Progress the filter cassette approach that presses cassettes into the back of the mount for alignment rather than translating the entire wheel.
+
+Draft the Spark Grant pitch deck.
+
+Write and time a 60 second elevator pitch script for the elevator pitch competition preliminary submission due Sunday night.
+
+
+Current hurdles to overcome:
+
+Establish mechanical interfaces that let a threaded lens mount plate connect to an EF adapter and come up with extension tubes for tuning backspacing.
+
+
+Design status and technical direction:
+
+Internal structure as small, screw together smaller sections to keep manufacturing simple and low cost while maintaining strength.
+
+Investigating the best options for pressing filter cassettes into an alignment feature.

@@ -1,0 +1,32 @@
+Here’s our Week 10 IOI update.
+
+
+What we accomplished this week:
+
+We won the Innovation Challenge! Funding of $750 per teammate is on the way.
+
+CAD work progressed further: we finalized our CAD organization system and updated the documentation.
+
+Using the reverse-engineered camera module, we added guide curves and rays from the exit pupil to the sensor so filter size can update automatically as geometry changes. These curves also drive basic filter dimensions for the cassette design. (See attached image)
+
+We planned the next CAD steps: update and flesh out the cassette part based on these filter dimensions, then build out the cassette mounting structure, and replace the Raspberry Pi STL with a STEP file for easier editing.
+
+We now have a screen for the camera and obtained CAD files for both the Pi board and the screen.
+
+We looked into the driver board in more detail, focusing on safety features, starting to reverse engineer the board, and we obtained circuit diagrams.
+
+We received the Raspberry Pi. The box of Pi parts will go to Alba on Monday, and she will start putting the Pi and camera module together and working on the software.
+
+We began planning a software/firmware repository organization guide so she and Nate can stay aligned on file management and code structure.
+
+We competed in the elevator pitch competition; we did not win, but it was a useful practice run and now we have a good elevator pitch for our project.
+
+
+Goals and near-term tasks:
+
+Dr. Bellur is back in town, so we emailed him today to schedule a lab tour for next week.
+
+We need to complete a decision matrix for the filter wheel design by Sunday EOD.
+
+We need to get started on the fall design review presentation early next week since there is not much time left before we present.
+

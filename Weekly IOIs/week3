@@ -1,0 +1,27 @@
+Here’s our Week 3 IOI update.
+ 
+What we accomplished this week:
+We explored lens-mount and filter solutions and benchmarked sensors. I identified a Pi-compatible Sony IMX462 sensor option as the best sub-$50 candidate for low-light and NIR sensitivity while keeping size compact (found units at ~$39.99).
+In the proposal, we added our Gantt chart, linked parts for cost tracking, and began compiling potentially relevant electrical standards/codes. We’d appreciate guidance on which electrical/EMC safety standards you want us to scope for tour project.
+As you saw, we sent a Raspberry Pi procurement request email to you to enable software bring-up.
+ 
+Goals for the coming week:
+Complete the proposal draft and conduct an internal review. Prepare for external feedback early the following week.
+Submit the UC Spark Grant one-pager and outline near-term funding milestones.
+ 
+Current hurdles to overcome:
+Clarifying which electrical safety/EMC standards should govern our prototype and documentation.
+ 
+Design status and technical direction:
+We’re investigating options for the lens-mount. For sensing, the IMX462 path looks strongest for our first prototype, given its 1/2.8″ format, ~2MP resolution, and superior visible/NIR performance at low illumination with readily available and very cheap Pi-compatible boards.
+ 
+Funding next steps:
+Spark Grant ($500, rolling, 1-page): drafting this week.
+Fall Elevator Pitch (60-sec, ~$5k in prizes): decide go/no-go once the proposal is submitted.
+Venture Lab (accelerator and student-only NEXT summer cohort) as a post-proposal funnel.
+ 
+High-level timeline overview:
+Now–October 17: finish drafting, internal review, and submit signed proposal (per our updated Gantt).
+Early December (DR1 ~80%): present mechanical/electrical/software progress with core subsystems near complete.
+Spring: integration, testing, and productization refinements; target EXPO demonstration of handheld multi-band prototype.
+ 

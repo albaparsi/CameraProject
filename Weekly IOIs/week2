@@ -1,0 +1,28 @@
+Here’s our Week 2 IOI update.
+
+What we accomplished this week:
+Finalized Alba as a new team member and aligned roles for the semester.
+Kicked off the proposal: outline completed, sections assigned, and initial drafting in progress.
+Confirmed IC requirements and decided to defer the Innovation Challenge to next semester with this project.
+
+Challenges we faced:
+Conflicting schedules and a tight turnaround for the Innovation Challenge commitment.
+
+Goals for the coming week:
+Finish the proposal draft and complete an internal team review.
+Line up an external review group (faculty/industry) and begin outreach so that feedback starts early the following week.
+Research components more and potentially start design.
+
+Current hurdles to overcome:
+Locking down project deliverables and their priority order for the fall build.
+Identifying non-IC funding avenues and contacting Kate Harmon to discuss options.
+Resolving our NX issues (installation/licensing/configuration) so CAD can proceed smoothly.
+
+Design status and technical direction:
+We are converging on the barrel-style internal filter wheel that wraps around the sensor to minimize footprint. The prototype path remains a modular architecture: internal metal structure for mounting the sensor, wheel, and electronics; plastic outer body for ergonomics, light sealing, and basic weather resistance. Control/UI will target an onboard screen with buttons/dials; for the prototype, a Raspberry Pi-class controller will handle I/O and basic processing. We are keeping the system open and serviceable so filters, wheels, and electronics can be swapped or upgraded as we iterate.
+
+High-level timeline overview:
+Now–October 17: complete proposal drafting, incorporate reviews, and submit signed proposal.
+Early December (DR1 ~80%): present mechanical/electrical/software progress with 4 core subsystems close to complete.
+Spring: integration, testing, and productization refinements.
+April 7, 2026: EXPO demonstration of a functional handheld prototype with multi-band captures.

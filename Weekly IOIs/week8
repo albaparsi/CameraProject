@@ -1,0 +1,48 @@
+Here’s our Week 8 IOI update.
+
+
+What we accomplished this week:
+
+Lab access: Key pickup is expected Monday. We will schedule a tour of Rhodes 514 as a team for next week.
+
+Hardware progress: Received the camera and SD card. Created a reverse-engineered CAD model of the camera module for filter-wheel packaging and assembly work.
+
+Design exploration: Additional sketching completed and draft CAD planning started from last week’s concept sheets.
+
+Controls and mechatronics: Driver board review indicates it will work. Power will likely need to be isolated from the control board to avoid back current.
+
+Process and references: Collected optics tolerance references to standardize naming in CAD and documentation.
+
+Admin: All team members are enrolled in Spring SD.
+
+
+Challenges we faced:
+
+Not having the Pi to get started on software.
+
+Defining a robust power supply approach for the motor and driver board.
+
+
+Goals for the coming week:
+
+Schedule a lab tour with Dr. Bellur.
+
+Build the first draft CAD of the new filter wheel from the reverse-engineered board and sensor envelopes.
+
+Draft system and functional diagrams plus a decision matrix by end of Monday.
+
+Finalize a power supply scheme for the motor and document an electrical functional diagram.
+
+Begin a user I/O functional diagram.
+
+
+Current hurdles to overcome:
+
+Selecting and validating a motor power solution that prevents back current that could damage the control board.
+
+
+Design status and technical direction:
+
+Packaging centers on a compact, short-back-focus filter wheel. CAD will emphasize manufacturable tolerances, repeatable calibration, and ease of repair/machinability.
+
+

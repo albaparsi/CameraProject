@@ -1,0 +1,30 @@
+Here’s our Week 4 IOI update.
+What we accomplished this week:
+Alba began hands-on UI practice with my camera. We'll curate a list next week of required I/O and settings for our on-device UI.
+Reviewed peer's proposal.
+Alex and I visited the Makerspace to survey available electronics. We identified a potentially suitable servo motor and several electronics resources.
+Advanced conceptual design for a light sensor plus pinholes through the filter wheel to enable precise wheel positioning and calibration (to be validated with testing later).
+Challenges:
+Sourcing components so we can start testing and developing software.
+Goals for the coming week:
+
+Start mechanical/electrical design. I will finalize the optical constraints to unlock downstream CAD.
+
+Alba to compile the UI I/O + settings list for our control scheme.
+
+Spark Grant ($500, rolling, one-page): drafting/submitting next week.
+
+Confirm procurement status for the Raspberry Pi parts (awaiting your confirmation).
+
+
+
+Current hurdles to overcome:
+Component availability/lead times for the first prototype build.
+Spark Grant application throughput and short-term documentation needs.
+Design status and technical direction:
+I researched deeper into a filter-wheel indexing concept. It involves a dedicated variable light sensor reading pinholes through the filter wheel for position detection and initialization. I expect us to exceed the necessary filter alignment tolerance by using the magnitude of light detected through a pinhole calibrated to a known alignment of the wheel. A second pinhole on the first filter will allow us to determine where the first filter is during startup.
+UI/controls: Alba’s camera study will inform our initial control map (screen + buttons/dials) and the I/O requirements for the software.
+High-level timeline overview:
+Now–October 17: finalize proposal, complete internal review, and submit.
+Early December (DR1 ~80%): show mechanical/electrical/software progress with core subsystems near complete.
+Spring: integration, testing, and productization refinements; target EXPO demonstration of handheld multi-band prototype.
