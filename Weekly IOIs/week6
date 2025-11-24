@@ -1,0 +1,30 @@
+Here’s our Week 6 IOI update.
+
+What we accomplished this week:
+
+Filter wheel: Discussed new design ideas; Alex is starting CAD today and continuing over the next few days. Reaffirmed that filter-wheel tolerancing is the primary technical risk. This project serves as a feasibility test for achieving the most compact and precise wheel possible.
+Legal/IP workshop (yesterday): Captured guidance around patents and IP; we will be cautious about sharing technical details publicly, especially the filter-wheel approach. Noted that because there is no significant UC funding, IP should be ours with approval (UC’s until proven otherwise).
+CAD organization/PDM: Spoke with Meagan regarding Teamcenter; she wasn’t able to advise on setup. Given the overhead, we will likely not use Teamcenter and instead proceed with a structured OneDrive PLM system. Alex will add procedures/notes to the CAD process page.
+Completed peer review surveys.
+Spoke with Dr. Bellur about serving as our faculty mentor.
+Alex completed his CNC machining training at the Makerspace today. This will help greatly with fabricating parts next semester.
+
+Challenges we faced:
+Translating the filter-wheel tolerance targets into manufacturable features and a testable design.
+Choosing and standing up a practical PDM approach without Teamcenter.
+
+Goals for the coming week:
+Advance the new filter-wheel CAD and begin a first-pass tolerance stack/fit study.
+Finalize the OneDrive PLM structure and CAD procedures page.
+Align on IP-safe communication practices for class reviews and external discussions.
+Confirm project workspace through Dr. Bellur.
+
+Current hurdles to overcome:
+Establishing a reliable, lightweight version-tracking workflow in OneDrive.
+Determining the best path forward for filter wheel design for the lowest cost and tightest tolerance.
+
+Design status and technical direction:
+Focus remains on a compact wheel with robust indexing and calibration; CAD will emphasize tolerance-driven features and assembly repeatability.
+
+Asks / notes:
+No action needed from the team this week beyond PO/status norms. We will share the CAD procedures link and IP-sharing guidelines once drafted.

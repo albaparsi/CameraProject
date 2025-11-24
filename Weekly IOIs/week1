@@ -1,0 +1,42 @@
+Here’s our Week 1 IOI update.
+ 
+What we accomplished this week:
+Alex an I met with a prospective CS collaborator to explore joining our project or partnering for CEAS Innovation Challenges.
+Got confirmation from
+Full-team sync to review funding and support options, current deliverables, and near-term logistics.
+ 
+Challenges we faced:
+Figuring out how we can officially integrate Alba into our group.
+Short Innovation Challenge 1 timeline. We need to decide if we pitch this semester or next which will be based on how exactly innovation challenge 1 and 2 operate. If this semester, we must finish a slide deck and polish the pitch before the deadline next Wednesday.
+ 
+Goals for the coming week:
+Innovation Challenge decision and prep: finalize the slide deck or decide to defer to next semester.
+Research additional funding avenues.
+Finalize adding Alba to the group.
+Start the overall project schedule and build a first-pass Gantt chart.
+ 
+Current hurdles to overcome:
+Understanding the Innovation Challenge process and requirements with enough clarity to make a go or no-go decision.
+Figuring out the pathway to integrate Alba with our team.
+ 
+Design status and technical direction:
+We are converging on a barrel-style filter wheel designed for a full-frame sensor.
+The filter wheel will be side-removable for easy repair and for expanding capacity.
+The camera will include a screen, buttons, and dials for in-camera control, basic processing, and file organization.
+For the prototype, a Raspberry Pi will handle control and I/O.
+The architecture will be modular: internal metal support structure for mounting, with a plastic outer case for enclosure, durability, and basic weather resistance.
+ 
+Long-term intent is a product path that supports a wide component quality range. Goal is to make a products that spans in use from an ultra-capable modular-focus research camera to an accessible full-spectrum imaging system for professional and amateur photographers.
+ 
+Prototype minimum cost rough estimate:
+Sensor: ~$50
+Raspberry Pi or control module: ~$50
+Servo motor: ~$20
+Screen, switches, buttons, other electronics: ~$100
+3D printing material and metal stock: ~$500
+Filters R, G, B, IR: ~$10 (gel) to ~$50 (color glass)
+Approx total: ~$730
+ 
+High-level timeline overview:
+By end of fall semester: initial mechanical and electrical designs plus software research completed.
+By Design Expo: functional prototype built, software completed, and additional productization work defined.

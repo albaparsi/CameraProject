@@ -1,0 +1,44 @@
+Here’s our Week 7 IOI update.
+
+
+What we accomplished this week:
+
+Lab access: Coordinated with Dr. Bellur. Lab access will begin after sharps training is completed; Jon will be the key holder.
+
+Design sketches: Alex produced camera-body and filter-wheel concept sketches to guide the next CAD steps. See attached image for those sketches.
+
+Legal/IP: Attended the 10/30 Patent deep-dive session of the Legal Series; reinforced caution around public disclosure, especially for filter-wheel specifics.
+
+Filters/vendors: Began identifying additional vendors; will draft an RFQ once the minimum filter size is finalized.
+
+CAD tasks: Sourcing CAD for the Pi board; plan to reverse-engineer board/sensor envelopes for packaging and mounting.
+
+
+Challenges we faced:
+
+Converging on a minimum filter dimensions to unblock vendor RFQs. Will need to have filter wheel design settled and sensor board modeled to determine acceptable sizes. 
+
+
+Goals for the coming week:
+
+Complete sharps training for lab access; establish usage cadence in Dr. Bellur’s lab.
+
+Build the first CAD concepts of the new filter wheel from the sketches.
+
+Register for Makerspace classes (manual mill, laser cutting) 1–2 weeks ahead.
+
+
+Current hurdles to overcome:
+
+Filter-wheel tolerance/packaging.
+
+Reliable board CAD or measured envelopes to avoid rework in the mechanical stack-up.
+
+Sourcing CAD for the Pi board; plan to reverse-engineer board/sensor envelopes for packaging and mounting.
+
+
+Design status and technical direction:
+
+Continuing toward a compact, short-back-focus wheel. Emphasis on manufacturable tolerance features and repeatable calibration.
+
+Nate will start component research (variable-output light sensor for pinhole indexing and other alignment mechatronics concepts) and start developing functional decompositions.

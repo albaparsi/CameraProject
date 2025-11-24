@@ -1,0 +1,53 @@
+Here’s our Week 5 IOI update.
+ 
+ 
+What we accomplished this week:
+ 
+Worked on wrapping up the proposal
+ 
+Submitted PO for initial PI parts; awaiting order confirmation.
+ 
+CAD organization:
+     Defined part numbering, revision, and file-naming conventions.
+     Began investigating a file storage/versioning approach; exploring UC Teamcenter with OCC. Fallback: structured OneDrive      with manual revision log.
+ 
+Attended the Legal Series workshop (10/16): business formation, founder agreements, and IP protection; three more sessions scheduled.
+ 
+ 
+Challenges we faced:
+ 
+Securing components quickly enough to start bench testing.
+ 
+ 
+Goals for the coming week:
+ 
+Work on the Spark Grant documents.
+ 
+Confirm PO status and ETAs; begin benchtop tests as parts arrive.
+ 
+Decide on Teamcenter vs. OneDrive and stand up the chosen structure.
+ 
+Finalize optical constraints to unlock downstream mechanical design and lens/filter stack CAD.
+ 
+ 
+Current hurdles to overcome:
+ 
+Access to Teamcenter (or equivalent) for version control; coordination with OCC.
+ 
+Timely procurement to keep schedule on track.
+ 
+ 
+Design status and technical direction:
+ 
+CAD will proceed under the new part/revision system once optical constraints are finalized.
+ 
+Interim process: maintain a simple ECO/change log until PDM is in place.
+ 
+ 
+High-level timeline overview:
+ 
+Oct 17–24: finalize/submit proposal; submit Spark Grant; confirm PO status; implement PDM/file structure.
+ 
+Early December (DR1 ~80%): show mechanical/electrical/software progress with core subsystems near complete.
+ 
+Spring: integration, testing, and productization; target EXPO demonstration of handheld multi-band prototype.
