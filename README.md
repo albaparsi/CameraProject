@@ -18,7 +18,7 @@ A compact, handheld monochrome imaging system with an internal motorized filter 
 - **User Stories:** [User Stories](./User_Stories.md)
 - **Design Diagrams (Level 0/1/2):** [Design Diagrams image](./Design_Diagrams.jpg)
 
-## Project Tasks and Timeline (Assignment #5-6)
+## Project Tasks and Timeline 
 
 - **Task List:** [Tasklist](./Tasklist.md)
 - **Timeline:** [Timeline](./Timeline.md)
@@ -27,7 +27,7 @@ A compact, handheld monochrome imaging system with an internal motorized filter 
 ## Other Deliverables
 
 - **Project Constraints Essay:** [Project Constraints Essay](./Project%20Constraints%20Essay.md)
-- **PPT Slideshow (includes ABET Concerns):** [Senior Design Presentation](./Senior%20Design%20Presentation.pptx)
+- **PPT Slideshow (needs to be downloaded):** [Senior Design Presentation](./Senior%20Design%20Presentation.pptx)
 - **Self-Assessment Essays:** [Self Assessment Essay - alba](./self%20assessment%20essay%20-%20alba.md)
 - **Professional Biographies:** [Professional Biographies - alba](./Professional%20Biographies%20-%20alba.md)
 - **Budget and expenses to date:** [Budget](./budget.md)
