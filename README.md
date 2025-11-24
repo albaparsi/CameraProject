@@ -32,5 +32,6 @@ A compact, handheld monochrome imaging system with an internal motorized filter 
 - **Professional Biographies:** [Professional Biographies - alba](./Professional%20Biographies%20-%20alba.md)
 - **Budget and expenses to date:** [Budget](./budget.md)
 - **Appendix (references, citations, meeting notes):** [Appendix](./Appendix.md)
+- **Weekly IOIs (weekly updates to advisor):** [Weekly IOIs](./Weekly%20IOIs/)
 
 
