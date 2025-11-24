@@ -1,6 +1,3 @@
-Camera Project
-
-Team members and their majors: Alba Samsami (CS), Jonathon Scheckel (ME), Alex Smith (ME), Nate Bolllin (ME)
 # Camera Project
 
 **Team members and their majors:** Alba Samsami (CS), Jonathon Scheckel (ME), Alex Smith (ME), Nate Bolllin (ME)
